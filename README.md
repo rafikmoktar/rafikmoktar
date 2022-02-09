@@ -3,7 +3,6 @@
     <head>
     <meta charset="UTF+8">
     <title >pharmacie moktar</title>
-<link rel="stylesheet" href="style.css">
  <link rel="stylesheet" href="https://cdnjs.clou
  dflare.com/ajax/libs/font-awesome/4.7.0/cs
  s/font-awesome.css">
